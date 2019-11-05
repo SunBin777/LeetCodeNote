@@ -1,7 +1,13 @@
-# Compiled class file
+# 忽略文件
 *.class
 
-# Log file
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# 日志文件
 *.log
 
 # BlueJ files
