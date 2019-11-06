@@ -9,5 +9,12 @@ package main;
  */
 public class LeetCodeArithmetic4 {
 
+    /**
+     * 程序入口
+     * @param args
+     */
+    public static void main(String[] args) {
+        
+    }
 
 }
