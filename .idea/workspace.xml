@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1381aff8-27da-48b4-9cff-712640814511" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic1038.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+            <state relative-caret-position="810">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -83,6 +83,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic4.java" />
         <option value="$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/JSONObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic1038.java" />
       </list>
     </option>
   </component>
@@ -98,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,13 +137,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573023044964" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573195862412" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -152,12 +154,15 @@
     <property name="project.structure.side.proportion" value="0.30607477" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaCode\test1\src\main\java\ycp_test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\JavaCode\test1\src" />
       <recent name="E:\JavaCode\test1\src\trmp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaCode\test1\src\main\java\ycp_test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,7 +177,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCodeArithmetic8">
+  <component name="RunManager" selected="Application.LeetCodeArithmetic1038">
+    <configuration name="LeetCodeArithmetic1038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.LeetCodeArithmetic1038" />
+      <module name="LeetCodeNote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeetCodeArithmetic7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.LeetCodeArithmetic7" />
       <module name="LeetCodeNotes" />
@@ -189,19 +207,6 @@
     <configuration name="LeetCodeArithmetic8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.LeetCodeArithmetic8" />
       <module name="LeetCodeNote" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ycp_test.test4" />
-      <module name="LeetCodeNotes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
@@ -287,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCodeArithmetic1038" />
         <item itemvalue="Application.LeetCodeArithmetic8" />
         <item itemvalue="Application.LeetCodeArithmetic7" />
         <item itemvalue="Application.test6" />
         <item itemvalue="Application.test5" />
-        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -318,18 +323,19 @@
       <workItem from="1572423992754" duration="3135000" />
       <workItem from="1572933892612" duration="5230000" />
       <workItem from="1572940101291" duration="604000" />
-      <workItem from="1572941017966" duration="12537000" />
+      <workItem from="1572941017966" duration="13196000" />
+      <workItem from="1573113634315" duration="7670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67415000" />
+    <option name="totallyTimeSpent" value="75744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -338,8 +344,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25813448" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.26898047" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25813448" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.26898047" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -574,8 +580,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="86" column="19" lean-forward="true" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/main/LeetCodeArithmetic1038.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
         </state>
       </provider>
     </entry>
