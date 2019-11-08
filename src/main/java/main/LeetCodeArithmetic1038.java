@@ -5,7 +5,7 @@ package main;
  */
 
 /**
- * LeetCode第1038题：字符串转换整数 (atoi)
+ * LeetCode第1038题：从二叉搜索树到更大和树
  */
 public class LeetCodeArithmetic1038 {
     /**
