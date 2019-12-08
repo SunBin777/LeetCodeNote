@@ -17,12 +17,13 @@ public class LeetCodeArithmetic5 {
         System.out.println(longestPalindrome(s2));
         String s3 = "a";
         System.out.println(longestPalindrome(s3));
+        System.out.println("添加代码测试git");
     }
-
 
 
     public static String longestPalindrome(String s) {
         if(s == null || s.length() < 1) {
+
             return "";
         }
         int start = 0;                                      //设置回文起始坐标
