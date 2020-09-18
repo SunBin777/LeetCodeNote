@@ -37,11 +37,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575442076548" />
@@ -54,21 +55,21 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.24609375" />
     <property name="project.structure.side.proportion" value="0.30607477" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JavaCode\test1\src" />
-      <recent name="E:\JavaCode\test1\src\trmp" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaCode\test1\src\main\java\ycp_test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="main" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaCode\test1\src\main\java\ycp_test" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaCode\test1\src" />
+      <recent name="E:\JavaCode\test1\src\trmp" />
     </key>
   </component>
   <component name="RunManager" selected="Application.LeetCodeArithmetic9">
@@ -137,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="LeetCodeNotes" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -150,7 +151,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="LeetCodeNotes" />
       <option name="filePath" />
       <option name="vmParameters" />
@@ -194,18 +195,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -236,44 +225,17 @@
       <workItem from="1575429361871" duration="4344000" />
       <workItem from="1575734711832" duration="1298000" />
       <workItem from="1575769021624" duration="2180000" />
+      <workItem from="1600400446204" duration="1371000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="475" y="175" key="DetectedRootsChooserDialog" timestamp="1575737477098">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1600400813500">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="475" y="175" key="DetectedRootsChooserDialog/0.0.1440.920@0.0.1440.920" timestamp="1575737477098" />
-    <state x="501" y="215" key="FileChooserDialogImpl" timestamp="1575770698782">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="501" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1575770698782" />
-    <state width="1397" height="183" key="GridCell.Tab.0.bottom" timestamp="1575737511951">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1397" height="183" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1575737511951" />
-    <state width="1397" height="183" key="GridCell.Tab.0.center" timestamp="1575737511951">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1397" height="183" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1575737511951" />
-    <state width="1397" height="183" key="GridCell.Tab.0.left" timestamp="1575737511951">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1397" height="183" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1575737511951" />
-    <state width="1397" height="183" key="GridCell.Tab.0.right" timestamp="1575737511951">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state width="1397" height="183" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1575737511951" />
-    <state x="201" y="35" key="SettingsEditor" timestamp="1575771214770">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="201" y="35" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1575771214770" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1575769022984">
-      <screen x="0" y="0" width="1440" height="920" />
-    </state>
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1575769022984" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600400813500" />
   </component>
 </project>
